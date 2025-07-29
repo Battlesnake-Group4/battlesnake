@@ -35,7 +35,7 @@
     "eslint-plugin-jest": "^28.11.0",
     "eslint-plugin-no-commented-code": "^1.0.10",
     "eslint-plugin-sonarjs": "^3.0.2",
-    "eslint-plugin-unicorn": "^59.0.0",
+    "eslint-plugin-unicorn": "^60.0.0",
     "globals": "^16.0.0",
     "husky": "^9.1.7",
     "jsdoc": "^4.0.4",
