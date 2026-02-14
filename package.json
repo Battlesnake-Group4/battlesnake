@@ -20,7 +20,7 @@
     "@semantic-release/git": "^10.0.1",
     "@types/node": "^18.0.6",
     "eslint-plugin-eslint-comments": "^3.2.0",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "jest": "^30.0.2",
     "node-fetch": "^3.2.10",
     "tree-cli": "^0.6.7"
